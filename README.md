@@ -8,8 +8,13 @@
 ---
 
 ### 🔗 Connect & Join the Discussion
-* 💬 **LinkedIn Discussion:** [Read the summary & comment on my Day 1 LinkedIn Post](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(Update with your post link!)*
-* 📁 **GitHub Repository:** [View Full Learning Series Repo](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME)
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/recent-activity/posts/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn%20Posts-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ---
 
@@ -23,41 +28,11 @@ Historically, modern networking began with **ARPANET** (Advanced Research Projec
 
 ---
 
-## 🌍 2. Core Network Types Breakdown
+## 🌍 Types of Networks
 
 Networks are classified primarily by their geographic scale and coverage area:
 
-### 📊 Quick Reference Matrix
-
-| Network Type | Full Name | Geographic Scope | Typical Example |
-| :--- | :--- | :--- | :--- |
-| **PAN** | Personal Area Network | ~10 meters | Smartwatch / Bluetooth Headset |
-| **LAN** | Local Area Network | ~100 meters | Home or Office Wi-Fi Network |
-| **CAN** | Campus Area Network | 1 – 5 kilometers | University or Corporate Campus |
-| **MAN** | Metropolitan Area Network | ~50 kilometers | City-wide public Wi-Fi or Cable TV |
-| **WAN** | Wide Area Network | Global / World | The Internet |
-
----
-
-## 💡 Key Takeaway of the Day
-
-Understanding how network scope scales—from a simple **PAN** (Bluetooth) to a global **WAN** (the Internet)—is the first crucial building block for network architecture, administration, and cybersecurity defense.
-
----
-
-### 📝 Up Next in this Series
-* ➡️ **Day 02:** Network Models & Protocols
-
----
-*If you find this learning series helpful, feel free to star ⭐ the repository to follow along!*
-
-
-
-
-
-
-
-# 🌍 Types of Networks
+# 📊 Quick Reference Matrix
 
 Networks are classified by the geographical area they cover.
 
@@ -68,42 +43,17 @@ Networks are classified by the geographical area they cover.
 | 🏙️ **MAN (Metropolitan Area Network)** | A city or large campus | City-wide fiber network |
 | 🌎 **WAN (Wide Area Network)** | Countries or worldwide | The Internet |
 
----
-
-## 📱 Personal Area Network (PAN)
-
-![Bluetooth Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/BluetoothLogo.svg)
-
-> Connects personal devices over a short distance.
 
 ---
 
-## 🏠 Local Area Network (LAN)
+## 💡 Key Takeaway of the Day
 
-![Home Network Diagram](https://upload.wikimedia.org/wikipedia/commons/5/55/Home_Network_Diagram.svg)
-
-> Connects devices within a limited area such as a home, office, or school.
+Understanding how network scope scales—from a simple **PAN** (Bluetooth) to a global **WAN** (the Internet)—is the first crucial building block for network architecture, administration, and cybersecurity defense.
 
 ---
 
-## 🏙️ Metropolitan Area Network (MAN)
+*If you find this learning series helpful, feel free to star ⭐ the repository to follow along!*
 
-![Metropolitan Area Network](https://upload.wikimedia.org/wikipedia/commons/9/97/NetworkTopologies.svg)
 
-> Connects multiple LANs across a city or metropolitan area.
 
----
 
-## 🌎 Wide Area Network (WAN)
-
-![Internet Map](https://upload.wikimedia.org/wikipedia/commons/2/21/Internet_map_1024.jpg)
-
-> Connects networks over very large distances. The **Internet** is the world's largest WAN.
-
----
-
-## ✅ Quick Recap
-
-- 🔗 A network connects devices.
-- 📡 Networks enable communication and resource sharing.
-- 📱 PAN → 🏠 LAN → 🏙️ MAN → 🌎 WAN (smallest to largest coverage).
