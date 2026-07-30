@@ -1,13 +1,19 @@
-# networking-fundamentals
+## 🌐 Networking Fundamentals
 
-# 🌐 Day 01: Introduction to Network Fundamentals & Network Types
+---
+# 📑 Contents
+- What is a Computer Network?
+- Types of Networks
+- Quick Recap  
+---
 
-> **Part of my hands-on Networking & Cybersecurity Learning Series.**  
-> *Documenting my daily journey to break down complex tech concepts into simple, accessible visual guides.*
+# 🌐 Networking Fundamentals — Introduction & Network Types
+> 📘 Part of my hands-on Networking & Cybersecurity learning journey, where I simplify technical concepts into concise, visual notes.
 
 ---
 
-### 🔗 Connect & Join the Discussion
+## 🤝 Let's Connect
+
 <a href="https://www.linkedin.com/in/YOUR_USERNAME/recent-activity/posts/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn%20Posts-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts" />
 </a>
@@ -16,44 +22,52 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Learning](https://img.shields.io/badge/Learning-Networking-success)
+
 ---
 
 ## 🏛️ 1. What is a Computer Network?
 
-At its core, a **computer network** is a system of interconnected devices (computers, servers, routers, switches) that communicate with each other to exchange data, resources, and services.
+A **computer network** is a collection of connected devices that communicate and share data, resources, and services.
 
-Historically, modern networking began with **ARPANET** (Advanced Research Projects Agency Network) in the late 1960s, which introduced packet switching—the foundational technology behind the modern internet.
+💡 **Did You Know?**
 
-![Computer Network Diagram](images/"C:\Users\USER-ID\Downloads\ChatGPT")
+Modern networking began with **ARPANET** in 1969, introducing packet switching—the technology that laid the foundation for today's Internet.
+
+<p align="center">
+  <img src="images/network.png" alt="Types of Networks Diagram" width="900"/>
+</p>
 
 ---
 
 ## 🌍 Types of Networks
 
-Networks are classified primarily by their geographic scale and coverage area:
-
-# 📊 Quick Reference Matrix
-
 Networks are classified by the geographical area they cover.
 
-| Type | Coverage | Example |
-| :--- | :------- | :------ |
-| 📱 **PAN (Personal Area Network)** | Around one person | Bluetooth, smartwatch |
-| 🏠 **LAN (Local Area Network)** | Home, office, school | Wi-Fi network |
-| 🏙️ **MAN (Metropolitan Area Network)** | A city or large campus | City-wide fiber network |
-| 🌎 **WAN (Wide Area Network)** | Countries or worldwide | The Internet |
+<p align="center">
+  <img src="images/types_of_networks.png" alt="Types of Networks Diagram" width="900"/>
+</p>
 
+| Network | Coverage |
+|---------|----------|
+| 📱 PAN | Personal devices |
+| 🏠 LAN | Home or office |
+| 🏙️ MAN | City |
+| 🌎 WAN | Country or worldwide |
 
 ---
 
-## 💡 Key Takeaway of the Day
+## ✅ Quick Recap
 
-Understanding how network scope scales—from a simple **PAN** (Bluetooth) to a global **WAN** (the Internet)—is the first crucial building block for network architecture, administration, and cybersecurity defense.
-
+- 🔗 A network connects devices.
+- 📡 Networks enable communication and resource sharing.
+- 📱 PAN → 🏠 LAN → 🏙️ MAN → 🌎 WAN (smallest to largest coverage).
+- 
 ---
 
 *If you find this learning series helpful, feel free to star ⭐ the repository to follow along!*
 
-
-
+---
 
